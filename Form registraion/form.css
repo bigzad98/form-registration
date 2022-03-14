@@ -1,0 +1,17 @@
+body{background-color:aquamarine}
+h1{padding-top: 50px; text-align: center; font-size: 40px;}
+hr{width: 80%;height: 3px;border: 2px solid white;background-color: white;}
+
+input{width: 88%; height: 30px;color: gray;;margin-bottom:8px;}
+
+div{padding-left:130px ;
+padding-top: 20px;}
+select {
+    background-color: white;
+    width: 20%;
+    height: 30px;
+    margin-bottom: 8px;}
+input[type='radio'] {
+ width: auto;}
+ textarea {width: 88%;height: 105px;background-color: #fff}
+ 
